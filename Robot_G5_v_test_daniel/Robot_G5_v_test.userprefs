@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Robot_G5_v_test\Robot_G5_v_test.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ActiveRuntime="Mono 4.2.2 (Visual)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Robot_G5_v_test\Main.cs">
+    <Files>
+      <File FileName="Robot_G5_v_test\Main.cs" Line="59" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
